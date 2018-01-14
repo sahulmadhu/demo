@@ -1,0 +1,12 @@
+*.bat
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.classpath
+.idea
+.project
+.settings
+build
+target
+work
